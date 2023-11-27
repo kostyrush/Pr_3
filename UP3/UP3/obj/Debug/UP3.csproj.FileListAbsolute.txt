@@ -1,0 +1,11 @@
+C:\Users\0_305_6\Documents\UP3\UP3\bin\Debug\UP3.exe.config
+C:\Users\0_305_6\Documents\UP3\UP3\bin\Debug\UP3.exe
+C:\Users\0_305_6\Documents\UP3\UP3\bin\Debug\UP3.pdb
+C:\Users\0_305_6\Documents\UP3\UP3\obj\Debug\UP3.csproj.AssemblyReference.cache
+C:\Users\0_305_6\Documents\UP3\UP3\obj\Debug\UP3.csproj.SuggestedBindingRedirects.cache
+C:\Users\0_305_6\Documents\UP3\UP3\obj\Debug\UP3.Form1.resources
+C:\Users\0_305_6\Documents\UP3\UP3\obj\Debug\UP3.Properties.Resources.resources
+C:\Users\0_305_6\Documents\UP3\UP3\obj\Debug\UP3.csproj.GenerateResource.cache
+C:\Users\0_305_6\Documents\UP3\UP3\obj\Debug\UP3.csproj.CoreCompileInputs.cache
+C:\Users\0_305_6\Documents\UP3\UP3\obj\Debug\UP3.exe
+C:\Users\0_305_6\Documents\UP3\UP3\obj\Debug\UP3.pdb
